@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T03:48:17.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xBA6L_0I6xMerd6FJddQ" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T03:58:33.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="d1BJjwLiJyPeFz9tRHK0" version="13.10.3" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="4904" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="3948" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,10 +290,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBYjH0_UJTp_EUdpmLKk-150" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffb570&quot;&gt;2) &lt;/font&gt;1st Time Usage In Production Cloud&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sBYjH0_UJTp_EUdpmLKk-149">
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-150" value="&lt;font style=&quot;font-size: 14px&quot; color=&quot;#ffb570&quot;&gt;2) &lt;/font&gt;1st Time Operation In Production Cloud&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sBYjH0_UJTp_EUdpmLKk-149">
           <mxGeometry x="0.3078" y="-1" relative="1" as="geometry">
             <mxPoint x="208.55" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-152" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/construction-hand-drawn/38/construction_hand_drawn_icon__worker-128.png;strokeColor=#1820F5;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#1820F5;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="1525.05" width="43.9" height="43.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
