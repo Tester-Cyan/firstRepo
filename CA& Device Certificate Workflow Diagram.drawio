@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T02:20:53.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pzcG8LFLtzGjcgkFbcJG" version="13.10.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T02:25:00.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="G_G55n-IqSf17q_i9Etq" version="13.10.3" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="1970" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#FFB570;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1130" width="960" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-37" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="855" y="430" width="260" height="170" as="geometry" />
         </mxCell>
@@ -192,8 +195,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBYjH0_UJTp_EUdpmLKk-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#FFB570;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1130" width="960" height="470" as="geometry" />
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/basic-user-interface-5/64/setting_preference_option_maintenance_main_gear-128.png;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-78" value="Cloud OperationTeam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="980" y="230" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
