@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T01:26:07.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DeSYwKlSpAy5PVxVzFgf" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T01:37:47.924Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ebP4mXfMwbJUdIf9PQwt" version="14.1.2" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="3863" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="6663" dy="2887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="-716.45" y="1431.37" width="171.95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Wi-Fi Common Module Repair Testing Workflow&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-147" y="1990" width="550" height="20" as="geometry" />
+          <mxGeometry x="-131.57" y="2000" width="550" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-28" value="AWS Cloud- CA" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" parent="1" vertex="1">
           <mxGeometry x="-265" y="571" width="60" height="60" as="geometry" />
@@ -96,13 +96,13 @@
           <mxGeometry x="-210" y="1040" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-82" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFB570;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="224.93" y="1439.38" width="30" height="30" as="geometry" />
+          <mxGeometry x="204.93" y="1439.38" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-90" value="Common Wi-Fi Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="326" y="1577.75" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-91" value="Wi-Fi Module Initialized Operation With One Golden Device Sample (PCBA)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="256.93" y="1441.07" width="181.5" height="20" as="geometry" />
+          <mxGeometry x="236.93" y="1441.07" width="181.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-94" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFB570;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-756.45" y="1426.37" width="30" height="30" as="geometry" />
@@ -255,7 +255,7 @@
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/construction-hand-drawn/38/construction_hand_drawn_icon__worker-128.png;strokeColor=#1820F5;strokeWidth=1;fillColor=none;fontSize=20;fontColor=#1820F5;" parent="1" vertex="1">
           <mxGeometry x="1021" y="1666.43" width="43.9" height="43.9" as="geometry" />
         </mxCell>
-        <mxCell id="sBYjH0_UJTp_EUdpmLKk-177" value="Customied Manufacture APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="sBYjH0_UJTp_EUdpmLKk-177" value="Customized Manufacture APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="472.78" y="1513.8" width="97.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vn5zpIuFy9Mp_Aaqx6cl-4" value="User APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" parent="1" vertex="1">
@@ -290,7 +290,7 @@
         <mxCell id="Nrrt7rBhLRxhSk5ey4vq-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#000000;fillColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-417.49999999999994" y="1555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nrrt7rBhLRxhSk5ey4vq-29" value="&quot;Broken&quot; Wi-Fi Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="Nrrt7rBhLRxhSk5ey4vq-29" value="Check In &quot;Broken&quot; Wi-Fi Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-742.5" y="1502.6100000000001" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nrrt7rBhLRxhSk5ey4vq-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
@@ -395,7 +395,7 @@
           <mxGeometry x="144.4" y="1830" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sBYjH0_UJTp_EUdpmLKk-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#FFB570;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="2800" width="1930" height="730" as="geometry" />
+          <mxGeometry x="-822" y="1236" width="2020" height="730" as="geometry" />
         </mxCell>
         <mxCell id="DuwbLyz6ARv8P-jQa7M--1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" vertex="1" parent="1">
           <mxGeometry x="195.7" y="1513.45" width="60" height="60" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="267.83000000000004" y="1543.45" width="81.57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DuwbLyz6ARv8P-jQa7M--5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1603.45" width="40" height="22" as="geometry" />
+          <mxGeometry x="220" y="1616.45" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DuwbLyz6ARv8P-jQa7M--6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="DuwbLyz6ARv8P-jQa7M--5" target="DuwbLyz6ARv8P-jQa7M--5">
           <mxGeometry relative="1" as="geometry" />
@@ -424,10 +424,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DuwbLyz6ARv8P-jQa7M--8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="236" y="1610.45" width="8" height="8" as="geometry" />
+          <mxGeometry x="236" y="1623.45" width="8" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="DuwbLyz6ARv8P-jQa7M--9" value="Scan &quot;Broken&quot; Wi-Fi Module Product SKU Label" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="185" y="1576.75" width="130" height="20" as="geometry" />
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--9" value="Scan &quot;Broken&quot; Wi-Fi Module Product SKU Label, and Print The Same New Label" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1584.75" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--10" value="After Scan New SKU Label By Mobile APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="458.51" y="1541.45" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1113.45" width="20" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--12" value="&lt;span&gt;Verify &quot;Broken&quot; Wi-Fi Module In Factory&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-490.45000000000005" y="1320" width="320.45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="646.45" y="1114.38" width="20" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--14" value="&lt;span&gt;Config&amp;amp; Validate One New Wi-Fi Module In Factory&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="541.43" y="1320" width="344" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--15" value="Check Out One New Wi-Fi Module" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-60.5" y="1850" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30.069999999999936" y="1876.71" width="40" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="DuwbLyz6ARv8P-jQa7M--16" target="DuwbLyz6ARv8P-jQa7M--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="DuwbLyz6ARv8P-jQa7M--16" target="DuwbLyz6ARv8P-jQa7M--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuwbLyz6ARv8P-jQa7M--19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-14.069999999999936" y="1883.71" width="8" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
