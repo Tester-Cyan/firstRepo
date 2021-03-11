@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:09:02.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="yzIP-njAOlDjwnOkGdfF" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:10:44.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="V9ogGDtQYH97WqZphz4W" version="14.2.7" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
     <mxGraphModel dx="3863" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -366,19 +366,19 @@
           <mxGeometry x="655" y="1561.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" parent="1" vertex="1">
-          <mxGeometry x="128" y="1770" width="90" height="90" as="geometry" />
+          <mxGeometry x="119.5" y="2362.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pretty-office-10/128/Glue-128.png" parent="1" vertex="1">
           <mxGeometry x="-301" y="1607.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pretty-office-10/128/Glue-128.png" parent="1" vertex="1">
-          <mxGeometry x="170" y="1607.5" width="78" height="78" as="geometry" />
+          <mxGeometry x="161.5" y="2200" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-5" value="Wi-Fi Module Enclosure Filling Glue&lt;br&gt;Here - Option 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-337" y="1707" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-6" value="Wi-Fi Module Enclosure Filling Glue&lt;br&gt;Or Here - Option 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="134" y="1707" width="150" height="20" as="geometry" />
+          <mxGeometry x="125.5" y="2299.5" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-7" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-375" y="1869" width="215" height="50" as="geometry" />
@@ -390,16 +390,16 @@
           <mxGeometry x="446" y="1666.43" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-10" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
-          <mxGeometry x="248" y="1780" width="50" height="45" as="geometry" />
+          <mxGeometry x="239.5" y="2372.5" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-13" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" target="vNBhTXLD5B69hJ4wIaK6-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209" y="1778" as="sourcePoint" />
-            <mxPoint x="264" y="1820" as="targetPoint" />
+            <mxPoint x="200.5" y="2370.5" as="sourcePoint" />
+            <mxPoint x="255.5" y="2412.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="259" y="1778" />
-              <mxPoint x="209" y="1740" />
-              <mxPoint x="234" y="1790" />
+              <mxPoint x="250.5" y="2370.5" />
+              <mxPoint x="200.5" y="2332.5" />
+              <mxPoint x="225.5" y="2382.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -421,7 +421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yNAdDQoVaPxz_VR5qDJi-4" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="101.5" y="1869" width="215" height="50" as="geometry" />
+          <mxGeometry x="93" y="2461.5" width="215" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
