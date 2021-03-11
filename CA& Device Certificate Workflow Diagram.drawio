@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:23:00.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="PnFcL6vSetgf7AMpa2fF" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T07:05:48.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="hX3Xi-KKc1s4-8PP0JIl" version="14.2.7" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="3418" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4190" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,7 +437,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-7" value="&lt;ol&gt;&lt;li&gt;Read tag&lt;/li&gt;&lt;li&gt;PKI certificate flash &amp;amp; check&lt;/li&gt;&lt;li&gt;Full F/W flash with e-fuse flash &amp;amp; check&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-7" value="&lt;ol&gt;&lt;li&gt;Read tag&lt;/li&gt;&lt;li&gt;PKI certificate flash &amp;amp; check&lt;/li&gt;&lt;li&gt;Full F/W flash &amp;amp; check&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1730" width="225" height="40" as="geometry" />
         </mxCell>
       </root>
