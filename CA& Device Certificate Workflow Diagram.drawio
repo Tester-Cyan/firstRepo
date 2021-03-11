@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:10:44.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="V9ogGDtQYH97WqZphz4W" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:14:22.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="v2eitkLroUIG0dX3MHUL" version="14.2.7" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="3863" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4499" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,6 +422,20 @@
         </mxCell>
         <mxCell id="yNAdDQoVaPxz_VR5qDJi-4" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="93" y="2461.5" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" vertex="1" parent="1">
+          <mxGeometry x="-137" y="1506" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-6" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.928;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yNAdDQoVaPxz_VR5qDJi-5" target="sBYjH0_UJTp_EUdpmLKk-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="1513" as="sourcePoint" />
+            <mxPoint x="-40" y="1525.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-29" y="1501" />
+              <mxPoint x="-60" y="1480" />
+              <mxPoint x="-54" y="1513" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
