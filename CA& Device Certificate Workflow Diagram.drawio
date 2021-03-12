@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T07:45:26.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="enxZcf6cZNvGErzxIVKj" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T07:56:48.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="wkaoEuISDis2UDdP2iln" version="14.4.7" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="4499" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,6 +454,9 @@
             <mxPoint x="295.00000000000045" y="1746.63" as="sourcePoint" />
             <mxPoint x="605.0000000000005" y="1416.63" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-9" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;When 1st time MCU OTA, as there is no F/W for rollback, so Wi-Fi download OTA packages ( current version package + new version package) from cloud&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="798" y="1773.75" width="244" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
