@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T07:05:48.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="hX3Xi-KKc1s4-8PP0JIl" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T07:45:26.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="enxZcf6cZNvGErzxIVKj" version="14.4.7" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="4190" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4499" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,13 +403,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" parent="1" vertex="1">
           <mxGeometry x="-355" y="1770" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
           <mxGeometry x="-235" y="1780" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-3" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" target="yNAdDQoVaPxz_VR5qDJi-2">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-3" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" target="yNAdDQoVaPxz_VR5qDJi-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-274" y="1778" as="sourcePoint" />
             <mxPoint x="-219" y="1820" as="targetPoint" />
@@ -420,13 +420,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-4" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-4" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="93" y="2461.5" width="215" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" parent="1" vertex="1">
           <mxGeometry x="-137" y="1506" width="57" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-6" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.928;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yNAdDQoVaPxz_VR5qDJi-5" target="sBYjH0_UJTp_EUdpmLKk-100">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-6" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.928;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yNAdDQoVaPxz_VR5qDJi-5" target="sBYjH0_UJTp_EUdpmLKk-100" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="1513" as="sourcePoint" />
             <mxPoint x="-40" y="1525.5" as="targetPoint" />
@@ -437,8 +437,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yNAdDQoVaPxz_VR5qDJi-7" value="&lt;ol&gt;&lt;li&gt;Read tag&lt;/li&gt;&lt;li&gt;PKI certificate flash &amp;amp; check&lt;/li&gt;&lt;li&gt;Full F/W flash &amp;amp; check&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="yNAdDQoVaPxz_VR5qDJi-7" value="&lt;ol&gt;&lt;li&gt;Read tag&lt;/li&gt;&lt;li&gt;PKI certificate flash &amp;amp; check&lt;/li&gt;&lt;li&gt;Full F/W flash &amp;amp; check&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1730" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-1" value="&lt;ol&gt;&lt;li&gt;Perform test&lt;/li&gt;&lt;li&gt;Delete device by &quot;Delete&quot; in Mobile APP&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="801.8800000000001" y="1730" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-7" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596.25" y="1739" as="sourcePoint" />
+            <mxPoint x="293.75" y="1407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-8" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295.00000000000045" y="1746.63" as="sourcePoint" />
+            <mxPoint x="605.0000000000005" y="1416.63" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
