@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T07:56:48.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="wkaoEuISDis2UDdP2iln" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T03:20:20.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g5MRybCDL4TFUKnkYm-x" version="15.2.5" type="github">
   <diagram id="2Hf9CZ00S8ynS14T1NxW" name="Page-1">
-    <mxGraphModel dx="2954" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4190" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,7 +366,7 @@
           <mxGeometry x="655" y="1561.63" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" parent="1" vertex="1">
-          <mxGeometry x="119.5" y="2362.5" width="90" height="90" as="geometry" />
+          <mxGeometry x="-353.5" y="2143" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pretty-office-10/128/Glue-128.png" parent="1" vertex="1">
           <mxGeometry x="-301" y="1607.5" width="78" height="78" as="geometry" />
@@ -378,7 +378,7 @@
           <mxGeometry x="-337" y="1707" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-6" value="Wi-Fi Module Enclosure Filling Glue&lt;br&gt;Or Here - Option 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="125.5" y="2299.5" width="150" height="20" as="geometry" />
+          <mxGeometry x="-347.5" y="2080" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-7" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-375" y="1869" width="215" height="50" as="geometry" />
@@ -390,16 +390,16 @@
           <mxGeometry x="446" y="1666.43" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-10" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
-          <mxGeometry x="239.5" y="2372.5" width="50" height="45" as="geometry" />
+          <mxGeometry x="-233.5" y="2153" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vNBhTXLD5B69hJ4wIaK6-13" value="" style="curved=1;endArrow=none;html=1;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" target="vNBhTXLD5B69hJ4wIaK6-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200.5" y="2370.5" as="sourcePoint" />
-            <mxPoint x="255.5" y="2412.5" as="targetPoint" />
+            <mxPoint x="-272.5" y="2151" as="sourcePoint" />
+            <mxPoint x="-217.5" y="2193" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250.5" y="2370.5" />
-              <mxPoint x="200.5" y="2332.5" />
-              <mxPoint x="225.5" y="2382.5" />
+              <mxPoint x="-222.5" y="2151" />
+              <mxPoint x="-272.5" y="2113" />
+              <mxPoint x="-247.5" y="2163" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -421,7 +421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yNAdDQoVaPxz_VR5qDJi-4" value="&lt;ul&gt;&lt;li&gt;Paste Label: Wi-Fi Module PCBA Number&amp;amp; S/N&lt;/li&gt;&lt;li&gt;Record Label Number Into PC Database of Plant&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="93" y="2461.5" width="215" height="50" as="geometry" />
+          <mxGeometry x="-380" y="2242" width="215" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yNAdDQoVaPxz_VR5qDJi-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ecommerce-and-business-icon-set/128/bar-code.png" parent="1" vertex="1">
           <mxGeometry x="-137" y="1506" width="57" height="57" as="geometry" />
@@ -440,22 +440,22 @@
         <mxCell id="yNAdDQoVaPxz_VR5qDJi-7" value="&lt;ol&gt;&lt;li&gt;Read tag&lt;/li&gt;&lt;li&gt;PKI certificate flash &amp;amp; check&lt;/li&gt;&lt;li&gt;Full F/W flash &amp;amp; check&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1730" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-1" value="&lt;ol&gt;&lt;li&gt;Perform test&lt;/li&gt;&lt;li&gt;Delete device by &quot;Delete&quot; in Mobile APP&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-1" value="&lt;ol&gt;&lt;li&gt;Perform test&lt;/li&gt;&lt;li&gt;Delete device by &quot;Delete&quot; in Mobile APP&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="801.8800000000001" y="1730" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-7" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-7" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="596.25" y="1739" as="sourcePoint" />
             <mxPoint x="293.75" y="1407" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-8" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-8" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295.00000000000045" y="1746.63" as="sourcePoint" />
             <mxPoint x="605.0000000000005" y="1416.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-9" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;When 1st time MCU OTA, as there is no F/W for rollback, so Wi-Fi download OTA packages ( current version package + new version package) from cloud&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kNdlnG8cg3gtkeZzy1Ev-9" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;When 1st time MCU OTA, as there is no F/W for rollback, so Wi-Fi download OTA packages ( current version package + new version package) from cloud&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="798" y="1773.75" width="244" height="57.5" as="geometry" />
         </mxCell>
       </root>
